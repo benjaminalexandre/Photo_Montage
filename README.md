@@ -1,4 +1,4 @@
 # Photo_Montage
 
-Voici quelque photo montage que j'ai réalisé avec Adobe Photoshop!
+Voici quelques photos montage que j'ai réalisé avec Adobe Photoshop!
 Enjoy
